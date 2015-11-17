@@ -1,1 +1,3 @@
-# JAVA_OO_Basics
+Repositório voltado a conceitos OOP. Tecnologias Apresentadas:
+
+//TODO
